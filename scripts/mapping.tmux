@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SESSION=gmapping
+SESSION=mapping
 
 tmux -2 new-session -d -s $SESSION
 
